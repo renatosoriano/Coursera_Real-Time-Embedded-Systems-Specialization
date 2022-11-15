@@ -1,0 +1,14 @@
+[COURSE:2][ASSIGNMENT:4]: Linux raspberrypi 5.15.32-v7l+ #1538 SMP Thu Mar 31 19:39:41 BST 2022 armv7l GNU/Linux
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 2 start 1 @ sec=0.010681944 on core 3
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 1 @ sec=0.010681667 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 4 start 1 @ sec=0.010713185 on core 3
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 3 start 1 @ sec=0.010786278 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 2 @ sec=0.030694722 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 3 @ sec=0.050672870 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 2 start 2 @ sec=0.060669815 on core 3
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 4 @ sec=0.070709944 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 3 start 2 @ sec=0.080662741 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 5 @ sec=0.090655722 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 6 @ sec=0.110654963 on core 2
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 2 start 3 @ sec=0.110658833 on core 3
+Jun 11 19:59:22 raspberrypi [COURSE:2][ASSIGNMENT:4]: Thread 1 start 7 @ sec=0.130678148 on core 2

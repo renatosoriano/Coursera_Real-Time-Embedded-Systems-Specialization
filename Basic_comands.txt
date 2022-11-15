@@ -1,0 +1,47 @@
+
+U​se syslog() to log information to your syslog file (located in /var/log/syslog). 
+Use "man syslog" to view information on how to use syslog() in your program. 
+
+
+1. 
+I​f you like to send the uname -a command  from within  your program, you could use:
+
+int main()
+{
+      system("uname -a | tee /var/log/messages");  // or the log file where syslog dumps text.
+}
+
+
+2.
+If you intend to print directly to syslog, first clear it with:
+
+    echo > /dev/null | sudo tee /var/log/syslog
+
+For the first line you need to print uname -a, use logger command on the command line:
+
+    logger [COURSE:2][ASSIGNMENT:1]: `uname -a`
+
+The rest happens within your code:
+
+    openlog ("[COURSE:1][ASSIGNMENT:1]", LOG_NDELAY, LOG_DAEMON); 
+
+    syslog(LOG_DEBUG, " Hello.."); 
+
+Note:
+You can use the syslog(LOG_DEBUG, ) as you would printf. Just that the 
+syslog will print to the syslog which is what the assignment asks.
+Finally make sure to #include <syslog.h>
+
+
+3.
+T​he last part is the code compilation:
+    1. The source code is  pthread.c.
+    2. The gcc compiler is already preinstalled on RasPi.
+    3. Compile with 'make' or:
+    $ gcc -o pthread pthread.c -lpthread
+    4. Run with:
+    $ ./pthread
+
+4. 
+Command to show cpu usage and load:
+    htop
