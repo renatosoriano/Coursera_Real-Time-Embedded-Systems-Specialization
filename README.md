@@ -1,5 +1,5 @@
 
-## Real-Time Embedded Systems Specialization
+## Real-Time Embedded Systems
 
 This repo contains notes and programming assignments for the Coursera's "[Real-Time Embedded Systems](https://www.coursera.org/specializations/real-time-embedded-systems)" Specialization by University of Colorado Boulder.
 
