@@ -8,7 +8,10 @@ Date: June, 2022.
 - The course is instructed by Professor Sam Siewert.
 
 - You can find the **[syllabus](Syllabus.md)** of this course.
- 
+
+- The [**Course 1: 'Real-Time Embedded Systems Concepts and Practices' Coding Exercises**](https://github.com/renatosoriano/Coursera_Real-Time-Embedded-Systems-Specialization/tree/main/Course_1_Real-Time%20Embedded%20Systems%20Concepts%20and%20Practices) are available. 
+
+- The [**Course 2: 'Real-Time Embedded Systems Theory and Analysis' Coding Exercises**](https://github.com/renatosoriano/Coursera_Real-Time-Embedded-Systems-Specialization/tree/main/Course_2_Real-Time%20Embedded%20Systems%20Theory%20and%20Analysis) are available. 
 
 ## Descriptions
 
