@@ -19,7 +19,7 @@ Date: June, 2022.
 
 ## Descriptions
 
-The Specialization is a series of four courses and covers topics including: concurrency, Linux kernel modules, machine vision, co-processors, and correct function with timing constraints. Specific real-time extensions to Linux are used to compare advantages and disadvantages of Linux to more traditional RTOS, cyclic executive, and FPGA options. Experience gained can be used to launch additional exploration of hybrid FPGA systems (e.g. Altera and Xilinx) and multi-core scale-up (e.g. ARM A and R-Series) as well as MCU scale-down solutions (ARM M-Series microprocessors).
+The Specialization consists of a series of courses and covers topics including: concurrency, Linux kernel modules, machine vision, co-processors, and correct function with timing constraints. Specific real-time extensions to Linux are used to compare advantages and disadvantages of Linux to more traditional RTOS, cyclic executive, and FPGA options. Experience gained can be used to launch additional exploration of hybrid FPGA systems (e.g. Altera and Xilinx) and multi-core scale-up (e.g. ARM A and R-Series) as well as MCU scale-down solutions (ARM M-Series microprocessors).
 
 ## Requirements
 
